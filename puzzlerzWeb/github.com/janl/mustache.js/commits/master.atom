@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/janl/mustache.js/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/janl/mustache.js/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/janl/mustache.js/commits/master.atom"/>
+  <title>Recent Commits to mustache.js:master</title>
+  <updated>2017-08-26T16:14:01Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b283da5c8c26dbf78c357a1f67bfed26d18f5e32</id>
+    <link type="text/html" rel="alternate" href="https://github.com/janl/mustache.js/commit/b283da5c8c26dbf78c357a1f67bfed26d18f5e32"/>
+    <title>
+        Merge pull request #643 from raymond-lam/issue617
+    </title>
+    <updated>2017-08-26T16:14:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1260830?s=30&amp;v=4"/>
+    <author>
+      <name>dasilvacontin</name>
+      <uri>https://github.com/dasilvacontin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #643 from raymond-lam/issue617
+
+Writer.prototype.parse to cache by tags in addition to template string&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/198a5657be5aae1c5042d20a36cfbab20f2f8a56</id>
+    <link type="text/html" rel="alternate" href="https://github.com/janl/mustache.js/commit/198a5657be5aae1c5042d20a36cfbab20f2f8a56"/>
+    <title>
+        fix typo in parse-caching/Mustache.tags test
+    </title>
+    <updated>2017-08-26T16:05:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/13293035?s=30&amp;v=4"/>
+    <author>
+      <name>raymond-lam</name>
+      <uri>https://github.com/raymond-lam</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix typo in parse-caching/Mustache.tags test&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/24653984d08c7863d30451850c6e05fdafa31e37</id>
+    <link type="text/html" rel="alternate" href="https://github.com/janl/mustache.js/commit/24653984d08c7863d30451850c6e05fdafa31e37"/>
+    <title>
+        Writer.prototype.parse to cache by tags in addition to template string
+    </title>
+    <updated>2017-06-11T13:09:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/13293035?s=30&amp;v=4"/>
+    <author>
+      <name>raymond-lam</name>
+      <uri>https://github.com/raymond-lam</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Writer.prototype.parse to cache by tags in addition to template string&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/23beb3a8805c9a857e3ea777431481599fab503e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/janl/mustache.js/commit/23beb3a8805c9a857e3ea777431481599fab503e"/>
+    <title>
+        :ship: bump to version 2.3.0
+    </title>
+    <updated>2016-11-08T16:24:16Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1260830?s=30&amp;v=4"/>
+    <author>
+      <name>dasilvacontin</name>
+      <uri>https://github.com/dasilvacontin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;:ship: bump to version 2.3.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2f2588a213d1553830d0b536a625d2c5c76378e5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/janl/mustache.js/commit/2f2588a213d1553830d0b536a625d2c5c76378e5"/>
+    <title>
+        Merge pull request #597 from mightyplow/patch-1
+    </title>
+    <updated>2016-11-08T11:02:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1260830?s=30&amp;v=4"/>
+    <author>
+      <name>dasilvacontin</name>
+      <uri>https://github.com/dasilvacontin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #597 from mightyplow/patch-1
+
+return mustache object from factory&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/672bbd58eda1ec850229e1fefd1a69021bd10e08</id>
+    <link type="text/html" rel="alternate" href="https://github.com/janl/mustache.js/commit/672bbd58eda1ec850229e1fefd1a69021bd10e08"/>
+    <title>
+        Second shot at having greenkeeper ignore eslint (#610)
+    </title>
+    <updated>2016-10-18T10:15:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/1231635?s=30&amp;v=4"/>
+    <author>
+      <name>phillipj</name>
+      <uri>https://github.com/phillipj</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Second shot at having greenkeeper ignore eslint (#610)
+
+First shot at getting greenkeeper to ignoring eslint updates landed with commit 85fa74325845771fb3a5229ba319aa15bb57f3c3.
+
+Sadly that commit had a minor `greenkeper` misspelling in package.json, which obviously didn&amp;#39;t have much effect for greenkeeper.
+This commit fixes that blooper in hopes that greenkeeper will stop opening PRs about new eslint versions, as we don&amp;#39;t want to
+update at the moment cause eslint 3.x requires Node.js v4.x.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1d1a8af41be29204d9f3dd7470351590b8f835ad</id>
+    <link type="text/html" rel="alternate" href="https://github.com/janl/mustache.js/commit/1d1a8af41be29204d9f3dd7470351590b8f835ad"/>
+    <title>
+        add doctype to html template example (#593)
+    </title>
+    <updated>2016-09-28T13:35:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/40245?s=30&amp;v=4"/>
+    <author>
+      <name>calvinf</name>
+      <uri>https://github.com/calvinf</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add doctype to html template example (#593)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/66ff4d91aed47b1a1c40a89907a5a999feec8c95</id>
+    <link type="text/html" rel="alternate" href="https://github.com/janl/mustache.js/commit/66ff4d91aed47b1a1c40a89907a5a999feec8c95"/>
+    <title>
+        Run browser tests w/node v4
+    </title>
+    <updated>2016-09-13T13:30:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/1231635?s=30&amp;v=4"/>
+    <author>
+      <name>phillipj</name>
+      <uri>https://github.com/phillipj</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Run browser tests w/node v4
+
+As zuul consequently fails when running on node v0.12.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0180f43609e9b112b67709fcdbf44be1c103dda5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/janl/mustache.js/commit/0180f43609e9b112b67709fcdbf44be1c103dda5"/>
+    <title>
+        chore(package): update zuul to version 3.11.0 (#594)
+    </title>
+    <updated>2016-09-13T12:52:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/14790466?s=30&amp;v=4"/>
+    <author>
+      <name>greenkeeperio-bot</name>
+      <uri>https://github.com/greenkeeperio-bot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;chore(package): update zuul to version 3.11.0 (#594)
+
+https://greenkeeper.io/&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1b1a15904edf78fbb65fff0355b0bb2ce8db04f6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/janl/mustache.js/commit/1b1a15904edf78fbb65fff0355b0bb2ce8db04f6"/>
+    <title>
+        chore(package): update mocha to version 3.0.2 (#588)
+    </title>
+    <updated>2016-09-13T12:44:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/14790466?s=30&amp;v=4"/>
+    <author>
+      <name>greenkeeperio-bot</name>
+      <uri>https://github.com/greenkeeperio-bot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;chore(package): update mocha to version 3.0.2 (#588)
+
+https://greenkeeper.io/&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/85fa74325845771fb3a5229ba319aa15bb57f3c3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/janl/mustache.js/commit/85fa74325845771fb3a5229ba319aa15bb57f3c3"/>
+    <title>
+        Ignore eslint for greenkeeper updates. (#580)
+    </title>
+    <updated>2016-09-13T12:43:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/1231635?s=30&amp;v=4"/>
+    <author>
+      <name>phillipj</name>
+      <uri>https://github.com/phillipj</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Ignore eslint for greenkeeper updates. (#580)
+
+As we don&amp;#39;t plan to update to Node.js v4 any time soon,
+we can&amp;#39;t update eslint cause it requires Node.js =&amp;gt; v4.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fc5492b75072e917f986ace6264fc35dc7f4eb9c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/janl/mustache.js/commit/fc5492b75072e917f986ace6264fc35dc7f4eb9c"/>
+    <title>
+        return mustache object from factory
+    </title>
+    <updated>2016-09-04T14:04:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1093581?s=30&amp;v=4"/>
+    <author>
+      <name>mightyplow</name>
+      <uri>https://github.com/mightyplow</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;return mustache object from factory
+
+When using amdclean to create a footprint less javascript file, the object needs to be returned to let it properly be assigned to the created script variable.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/eae8aa3ba9396bd994f2d5bbe3b9fc14d702a7c2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/janl/mustache.js/commit/eae8aa3ba9396bd994f2d5bbe3b9fc14d702a7c2"/>
+    <title>
+        Fix #586: Change &quot;loadUser&quot; to &quot;loadUser()&quot; in docs. (#592)
+    </title>
+    <updated>2016-08-16T14:49:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/5942769?s=30&amp;v=4"/>
+    <author>
+      <name>Flaque</name>
+      <uri>https://github.com/Flaque</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix #586: Change &amp;quot;loadUser&amp;quot; to &amp;quot;loadUser()&amp;quot; in docs. (#592)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/25cf65befb93d00d8bf1f78d72dfe759f929db49</id>
+    <link type="text/html" rel="alternate" href="https://github.com/janl/mustache.js/commit/25cf65befb93d00d8bf1f78d72dfe759f929db49"/>
+    <title>
+        Document ways to set custom delimiters via JS (#575)
+    </title>
+    <updated>2016-07-25T13:42:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/18747026?s=30&amp;v=4"/>
+    <author>
+      <name>oughter</name>
+      <uri>https://github.com/oughter</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Document ways to set custom delimiters via JS (#575)
+
+Documents ways to set custom delimiters via JS, in addition to inline in the templates.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8ae505a3a8a80eea879c709e1287e8e07c637557</id>
+    <link type="text/html" rel="alternate" href="https://github.com/janl/mustache.js/commit/8ae505a3a8a80eea879c709e1287e8e07c637557"/>
+    <title>
+        Fix link to Ctemplate and its HowTo since they&#39;ve moved to GitHub (#569)
+    </title>
+    <updated>2016-06-10T12:56:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/495892?s=30&amp;v=4"/>
+    <author>
+      <name>mortonfox</name>
+      <uri>https://github.com/mortonfox</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix link to Ctemplate and its HowTo since they&amp;#39;ve moved to GitHub (#569)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c529bcc7f0be472be65585d0c7f30ccefbf9b23a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/janl/mustache.js/commit/c529bcc7f0be472be65585d0c7f30ccefbf9b23a"/>
+    <title>
+        chore(package): update mocha to version 2.5.0 (#565)
+    </title>
+    <updated>2016-05-25T16:40:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/14790466?s=30&amp;v=4"/>
+    <author>
+      <name>greenkeeperio-bot</name>
+      <uri>https://github.com/greenkeeperio-bot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;chore(package): update mocha to version 2.5.0 (#565)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/329bfd090d9d70dc3e150f21451c8069c009d882</id>
+    <link type="text/html" rel="alternate" href="https://github.com/janl/mustache.js/commit/329bfd090d9d70dc3e150f21451c8069c009d882"/>
+    <title>
+        Fixes CLI tests for windows (#560)
+    </title>
+    <updated>2016-04-24T11:03:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/18227051?s=30&amp;v=4"/>
+    <author>
+      <name>kookookchoozeus</name>
+      <uri>https://github.com/kookookchoozeus</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixes CLI tests for windows (#560)
+
+* Fixes CLI tests for windows
+
+* Hijacked exec so we don&amp;#39;t have to wrap each command in changeForOS, and made replacing &amp;#39;cat&amp;#39; safer with word boundaries
+
+* Fixing changed tests to be more consistent with the code base&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/90171637854b31766a6786bfe7b450a5adf01661</id>
+    <link type="text/html" rel="alternate" href="https://github.com/janl/mustache.js/commit/90171637854b31766a6786bfe7b450a5adf01661"/>
+    <title>
+        Merge pull request #553 from janl/escaped-lookup-test
+    </title>
+    <updated>2016-03-27T19:01:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1260830?s=30&amp;v=4"/>
+    <author>
+      <name>dasilvacontin</name>
+      <uri>https://github.com/dasilvacontin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #553 from janl/escaped-lookup-test
+
+Assert null lookup when rendering an unescaped value&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bdfb5d069e7af182b9e698b59986262067510a0d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/janl/mustache.js/commit/bdfb5d069e7af182b9e698b59986262067510a0d"/>
+    <title>
+        Merge pull request #555 from janl/greenkeeper-eslint-2.5.0
+    </title>
+    <updated>2016-03-27T07:59:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1260830?s=30&amp;v=4"/>
+    <author>
+      <name>dasilvacontin</name>
+      <uri>https://github.com/dasilvacontin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #555 from janl/greenkeeper-eslint-2.5.0
+
+eslint@2.5.0 breaks build 🚨&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4e096aa7c1ae5997f7e8409002848021dc3faaa8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/janl/mustache.js/commit/4e096aa7c1ae5997f7e8409002848021dc3faaa8"/>
+    <title>
+        chore(package): update eslint to version 2.5.1
+    </title>
+    <updated>2016-03-27T07:54:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1260830?s=30&amp;v=4"/>
+    <author>
+      <name>dasilvacontin</name>
+      <uri>https://github.com/dasilvacontin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;chore(package): update eslint to version 2.5.1
+
+http://greenkeeper.io/&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

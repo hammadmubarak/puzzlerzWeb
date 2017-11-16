@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.oxagile.com	TRUE	/	FALSE	1999999999	sockem_cookie	f93198ab70
+www.oxagile.com	TRUE	/	FALSE	1999999999	PHPSESSID	ajquh09qsjdiktd3gchggfc974
+.addtoany.com	TRUE	/	FALSE	1999999999	__cfduid	dcd99bc62b59d59ba69f4457e4fa591f91510322982
+.github.com	TRUE	/	FALSE	1999999999	logged_in	no
+github.com	TRUE	/	FALSE	1999999999	_gh_sess	eyJzZXNzaW9uX2lkIjoiZDJlNTQ4YzYxZDFlZWM3ZTQ2N2M1NTk4YjMwZWU0YjYiLCJsYXN0X3JlYWRfZnJvbV9yZXBsaWNhcyI6MTUxMDMyOTA5NzM2NiwicmVmZXJyYWxfY29kZSI6Imh0dHA6Ly93d3cub3hhZ2lsZS5jb20vY29tcGFueS9ibG9nL3BzaS1hdXRvbWF0aW9uLyIsInNweV9yZXBvIjoiamFubC9tdXN0YWNoZS5qcyIsInNweV9yZXBvX2F0IjoxNTEwMzI5MDk3LCJfY3NyZl90b2tlbiI6IlJPZURvRDJvaFVMYmN0ZGhRaEsxSGFuVmxWblQ2OVVpK2w1Y2t2M0VpekE9IiwicmV0dXJuX3RvIjoiL2phbmwvbXVzdGFjaGUuanMifQ%3D%3D--e41a0c287d5cedc93d92e6f6392b2d7dc2fd0dd4
+
